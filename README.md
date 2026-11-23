@@ -5,8 +5,8 @@
 <p align="center"><b>한국어</b> · <a href="README.ja.md">日本語</a> · <a href="README.zh.md">中文</a> · <a href="README.en.md">English</a></p>
 
 <p align="center">
-  <a href="https://parkrye.github.io/Touhou-WhereTheSeasonsRest/"><b><img src="docs/img/ic/e_walk.png" width="20" height="20" alt=""> 브라우저에서 플레이</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/parkrye/Touhou-WhereTheSeasonsRest/releases/latest"><img src="docs/img/ic/e_export.png" width="20" height="20" alt=""> 오프라인용 내려받기</a>
+  <a href="https://parkrye.github.io/WebProject_WhereTheSeasonsRest/"><b><img src="docs/img/ic/e_walk.png" width="20" height="20" alt=""> 브라우저에서 플레이</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/parkrye/WebProject_WhereTheSeasonsRest/releases/latest"><img src="docs/img/ic/e_export.png" width="20" height="20" alt=""> 오프라인용 내려받기</a>
 </p>
 <p align="center">동방 Project 2차 창작 팬게임 — 글자 없는 2D 픽셀 생활 시뮬레이션<br><sub>무료 · 설치 없이 브라우저에서 · PC · 모바일 · 저장은 이 브라우저에 · 버전 0.1.14</sub></p>
 
@@ -28,7 +28,7 @@
 
 ## 버그 제보·의견
 
-[Discussions](https://github.com/parkrye/Touhou-WhereTheSeasonsRest/discussions)에 남겨 주세요. 게임 안 설정의 무당벌레 단추로도 열 수 있습니다.
+[Discussions](https://github.com/parkrye/WebProject_WhereTheSeasonsRest/discussions)에 남겨 주세요. 게임 안 설정의 무당벌레 단추로도 열 수 있습니다.
 
 ## 버전
 

@@ -5,8 +5,8 @@
 <p align="center"><a href="README.md">한국어</a> · <a href="README.ja.md">日本語</a> · <a href="README.zh.md">中文</a> · <b>English</b></p>
 
 <p align="center">
-  <a href="https://parkrye.github.io/Touhou-WhereTheSeasonsRest/"><b><img src="docs/img/ic/e_walk.png" width="20" height="20" alt=""> Play in your browser</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/parkrye/Touhou-WhereTheSeasonsRest/releases/latest"><img src="docs/img/ic/e_export.png" width="20" height="20" alt=""> Download for offline play</a>
+  <a href="https://parkrye.github.io/WebProject_WhereTheSeasonsRest/"><b><img src="docs/img/ic/e_walk.png" width="20" height="20" alt=""> Play in your browser</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/parkrye/WebProject_WhereTheSeasonsRest/releases/latest"><img src="docs/img/ic/e_export.png" width="20" height="20" alt=""> Download for offline play</a>
 </p>
 <p align="center">A Touhou Project fan game — a wordless 2D pixel-art life sim<br><sub>Free · No install, runs in the browser · PC & mobile · Saves stay in this browser · Version 0.1.14</sub></p>
 
@@ -28,7 +28,7 @@
 
 ## Bug reports & feedback
 
-Please post in [Discussions](https://github.com/parkrye/Touhou-WhereTheSeasonsRest/discussions). You can also open it with the ladybug button in the in-game settings.
+Please post in [Discussions](https://github.com/parkrye/WebProject_WhereTheSeasonsRest/discussions). You can also open it with the ladybug button in the in-game settings.
 
 ## Version
 

@@ -5,8 +5,8 @@
 <p align="center"><a href="README.md">한국어</a> · <a href="README.ja.md">日本語</a> · <b>中文</b> · <a href="README.en.md">English</a></p>
 
 <p align="center">
-  <a href="https://parkrye.github.io/Touhou-WhereTheSeasonsRest/"><b><img src="docs/img/ic/e_walk.png" width="20" height="20" alt=""> 在浏览器中游玩</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/parkrye/Touhou-WhereTheSeasonsRest/releases/latest"><img src="docs/img/ic/e_export.png" width="20" height="20" alt=""> 离线版下载</a>
+  <a href="https://parkrye.github.io/WebProject_WhereTheSeasonsRest/"><b><img src="docs/img/ic/e_walk.png" width="20" height="20" alt=""> 在浏览器中游玩</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/parkrye/WebProject_WhereTheSeasonsRest/releases/latest"><img src="docs/img/ic/e_export.png" width="20" height="20" alt=""> 离线版下载</a>
 </p>
 <p align="center">东方Project同人二次创作游戏 — 没有文字的2D像素生活模拟<br><sub>免费 · 无需安装 · 支持电脑与手机 · 存档保存在本浏览器 · 版本 0.1.14</sub></p>
 
@@ -28,7 +28,7 @@
 
 ## 错误报告・意见
 
-请在 [Discussions](https://github.com/parkrye/Touhou-WhereTheSeasonsRest/discussions) 留言。也可以通过游戏内设置中的瓢虫按钮打开。
+请在 [Discussions](https://github.com/parkrye/WebProject_WhereTheSeasonsRest/discussions) 留言。也可以通过游戏内设置中的瓢虫按钮打开。
 
 ## 版本
 

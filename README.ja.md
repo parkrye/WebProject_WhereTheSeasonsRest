@@ -5,8 +5,8 @@
 <p align="center"><a href="README.md">한국어</a> · <b>日本語</b> · <a href="README.zh.md">中文</a> · <a href="README.en.md">English</a></p>
 
 <p align="center">
-  <a href="https://parkrye.github.io/Touhou-WhereTheSeasonsRest/"><b><img src="docs/img/ic/e_walk.png" width="20" height="20" alt=""> ブラウザでプレイ</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/parkrye/Touhou-WhereTheSeasonsRest/releases/latest"><img src="docs/img/ic/e_export.png" width="20" height="20" alt=""> オフライン用ダウンロード</a>
+  <a href="https://parkrye.github.io/WebProject_WhereTheSeasonsRest/"><b><img src="docs/img/ic/e_walk.png" width="20" height="20" alt=""> ブラウザでプレイ</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/parkrye/WebProject_WhereTheSeasonsRest/releases/latest"><img src="docs/img/ic/e_export.png" width="20" height="20" alt=""> オフライン用ダウンロード</a>
 </p>
 <p align="center">東方Project二次創作ファンゲーム — 文字のない2Dドット絵生活シミュレーション<br><sub>無料 · インストール不要 · PC・スマホ対応 · セーブはこのブラウザに保存 · バージョン 0.1.14</sub></p>
 
@@ -28,7 +28,7 @@
 
 ## バグ報告・ご意見
 
-[Discussions](https://github.com/parkrye/Touhou-WhereTheSeasonsRest/discussions)にお寄せください。ゲーム内の設定にあるテントウムシのボタンからも開けます。
+[Discussions](https://github.com/parkrye/WebProject_WhereTheSeasonsRest/discussions)にお寄せください。ゲーム内の設定にあるテントウムシのボタンからも開けます。
 
 ## バージョン
 
