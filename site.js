@@ -6,8 +6,8 @@
   const LANGS = ['ko', 'ja', 'zh', 'en']
   const PAGE = document.body.dataset.page
   const VERSION = document.body.dataset.version || ''
-  const RELEASES = 'https://github.com/parkrye/Touhou-WhereTheSeasonsRest/releases/latest'
-  const REPO = 'https://github.com/parkrye/Touhou-WhereTheSeasonsRest'
+  const RELEASES = 'https://github.com/parkrye/WebProject_WhereTheSeasonsRest/releases/latest'
+  const REPO = 'https://github.com/parkrye/WebProject_WhereTheSeasonsRest'
   const SHOTS = ['natsumatsuri', 'hanami', 'yukimatsuri', 'momiji', 'village', 'tsukimi', 'library', 'underground']
   // 콘텐츠 주제마다 곁들일 사진
   const TOPIC_IMG = { start: 'title', day: 'winter', farm: 'farm', craft: 'library', people: 'village', work: 'market', home: 'house', world: 'tengu', fest: 'natsumatsuri', chaos: 'court', sim: 'tanabata', save: 'tsukimi' }
